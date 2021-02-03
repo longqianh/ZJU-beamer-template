@@ -1,0 +1,11 @@
+
+*.aux
+*.fdb_latexmk
+*.log
+*.fls
+black_bk/beamer.nav
+black_bk/beamer.out
+black_bk/beamer.snm
+black_bk/beamer.synctex.gz
+black_bk/beamer.toc
+black_bk/beamer.xdv
