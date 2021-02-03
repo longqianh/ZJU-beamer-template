@@ -2,9 +2,7 @@
 
 建设中…
 
-- From CU Boulder Beamer Presentation Template by @polmes
 
-  
 
 ## Overview
 
@@ -17,3 +15,11 @@
 - Others 
 
   waiting to update..
+
+
+
+## Beamer Origin Author
+
+- Black background
+
+  From CU Boulder Beamer Presentation Template by @polmes.
