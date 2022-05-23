@@ -14,7 +14,7 @@
 
 - Nice Section Processbar
 
-  ![processbar](E:\GitHub\ZJU-beamer-template\figures\processbar.png)
+  ![processbar](figures/processbar.png)
   
 - Others 
 
