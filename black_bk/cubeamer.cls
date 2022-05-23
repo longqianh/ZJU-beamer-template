@@ -182,7 +182,7 @@
 % Footer
 \setbeamertemplate{footline}{%
     \begin{beamercolorbox}[wd = \textwidth, ht = 1cm, sep = 0.2cm]{footer}
-        \includegraphics[height = 0.6cm]{figures/smead.pdf}
+        \includegraphics[height = 0.6cm]{figures/ZJU.pdf}
         \hfill
         \raisebox{0.22cm}{
             \insertshortauthor

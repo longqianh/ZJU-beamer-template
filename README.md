@@ -1,9 +1,5 @@
 # ZJU-beamer-template
 
-建设中…
-
-
-
 ## Overview
 
 - Black background
@@ -12,6 +8,14 @@
 
 
 
+- Auto Toc
+
+  ![autotoc](figures/autotoc.png)
+
+- Nice Section Processbar
+
+  ![processbar](E:\GitHub\ZJU-beamer-template\figures\processbar.png)
+  
 - Others 
 
   waiting to update..
